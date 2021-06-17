@@ -1,4 +1,8 @@
 <img src="https://raw.githubusercontent.com/hamidoucheasmae/hamidoucheasmae/master/header.png" alt="banner that says hello,my name asmae... ">
+<!-- retro visitor counter -->
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/hamidoucheasmae/count.svg" />
+</p>
 
 **Languages and Tools:**  
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
