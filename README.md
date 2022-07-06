@@ -28,11 +28,17 @@
 <h3 align="left">Find me around the web 🌎:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/asmae-hamidouche/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmae hamidouche" height="30" width="40" /></a>
-<a href="https://www.instagram.com/asmae_mid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asmae_mid" height="30" width="40" /></a>
+<a href="https://www.behance.net/asmae hamidouche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="asmae hamidouche" height="30" width="40" /></a>
+
+<a href="https://twitter.com/asmaehamidouche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asmaehamidouche" height="30" width="40" /></a>
+<a href="https://www.instagram.com/asmaehamidouche/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asmae_mid" height="30" width="40" /></a>
+
+
+
   </p>
 <h3 align="left">I invite you to consult my portfolio:</h3>
 
-<a href="https://asmaehamidouche.github.io/home/" target="_blank"> <img src="https://img.icons8.com/bubbles/50/000000/domain.png" alt="w" width="40" height="40"/> </a>
+<a href="https://asmaehamidouche.com" target="_blank"> <img src="https://img.icons8.com/bubbles/50/000000/domain.png" alt="w" width="40" height="40"/> </a>
 
 
 
