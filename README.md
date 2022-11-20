@@ -31,7 +31,7 @@
 <a href="https://www.behance.net/asmae hamidouche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="asmae hamidouche" height="30" width="40" /></a>
 
 <a href="https://twitter.com/asmaehamidouche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asmaehamidouche" height="30" width="40" /></a>
-<a href="https://www.instagram.com/asmaehamidouche/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asmae_mid" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ux.asmae/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asmae_mid" height="30" width="40" /></a>
 
 
 
