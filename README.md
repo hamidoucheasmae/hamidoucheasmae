@@ -38,7 +38,7 @@
   </p>
 <h3 align="left">I invite you to consult my portfolio:</h3>
 
-<a href="https://asmaehamidouche.com" target="_blank"> <img src="https://img.icons8.com/bubbles/50/000000/domain.png" alt="w" width="40" height="40"/> </a>
+<a href="https://uxasmae.com" target="_blank"> <img src="https://img.icons8.com/bubbles/50/000000/domain.png" alt="w" width="40" height="40"/> </a>
 
 
 
